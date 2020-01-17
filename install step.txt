@@ -1,0 +1,19 @@
+Download and Install Ruby
+Download and Install Node
+
+1. Install Grunt Command Line Interface(CLI) npm install -g grunt-cl
+2. Create Package JSON           npm init
+3. Install grunt Node (Project)  npm install grunt --save-dev
+4. Create Custom grunt.js File   
+
+
+
+
+
+D: to change the drive in CMD
+
+to install node in different system based on grunt
+npm install 
+gem install sass
+
+  
